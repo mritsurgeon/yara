@@ -8,3 +8,5 @@ rule HexUnicode_TextStringRule {
   condition:
     $hex_unicode_string or $exit_string
 }
+
+
